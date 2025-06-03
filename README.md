@@ -4,7 +4,7 @@
 
 **Topics:**
 
-- [Databricks Tooling](https://github.com/seobando/CERTIFICATIONS_DATABRICKS_DATA_ENGINEER_PRO/blob/main/notes/data_tooling.md) – 20%
+- [Databricks Tooling](https://github.com/seobando/CERTIFICATIONS_DATABRICKS_DATA_ENGINEER_PRO/blob/main/notes/databricks_tooling.md) – 20%
 - [Data Processing](https://github.com/seobando/CERTIFICATIONS_DATABRICKS_DATA_ENGINEER_PRO/blob/main/notes/data_processing.md) – 30%
 - [Data Modeling](https://github.com/seobando/CERTIFICATIONS_DATABRICKS_DATA_ENGINEER_PRO/blob/main/notes/data_modeling.md) – 20%
 - [Security and Governance](https://github.com/seobando/CERTIFICATIONS_DATABRICKS_DATA_ENGINEER_PRO/blob/main/notes/security_and_governance.md) – 10%
