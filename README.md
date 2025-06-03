@@ -6,10 +6,10 @@
 
 - [Databricks Tooling](https://github.com/seobando/CERTIFICATIONS_DATABRICKS_DATA_ENGINEER_PRO/blob/main/notes/data_modeling.md) – 20%
 - [Data Processing](https://github.com/seobando/CERTIFICATIONS_DATABRICKS_DATA_ENGINEER_PRO/blob/main/notes/data_processing.md) – 30%
-- Data Modeling – 20%
-- [Security and Governance](https://github.com/seobando/CERTIFICATIONS_DATABRICKS_DATA_ENGINEER_PRO/blob/main/notes/databricks_tooling.md) – 10%
+- [Data Modeling](https://github.com/seobando/CERTIFICATIONS_DATABRICKS_DATA_ENGINEER_PRO/blob/main/notes/data_modeling.md) – 20%
+- [Security and Governance](https://github.com/seobando/CERTIFICATIONS_DATABRICKS_DATA_ENGINEER_PRO/blob/main/notes/security_and_governance.md) – 10%
 - [Monitoring and Logging](https://github.com/seobando/CERTIFICATIONS_DATABRICKS_DATA_ENGINEER_PRO/blob/main/notes/monitoring_and_logging.md) – 10%
-- [Testing and Deployment](https://github.com/seobando/CERTIFICATIONS_DATABRICKS_DATA_ENGINEER_PRO/blob/main/notes/security_and_governance.md) – 10%
+- [Testing and Deployment](https://github.com/seobando/CERTIFICATIONS_DATABRICKS_DATA_ENGINEER_PRO/blob/main/notes/testing_and_deployment.md) – 10%
 
 **Exam structure:**
 
