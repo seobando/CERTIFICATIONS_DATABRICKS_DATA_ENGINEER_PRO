@@ -30,7 +30,7 @@
     - Tables that grow quickly and require maintenance and tuning effort
     - Tables with access patterns that change over time
     - Tables where a typical partition key could leave the table with too many or too few partitions.
-- ** Deletion Vectors:**
+- **Deletion Vectors:**
   -  **Phothon** leverages deletion vector for predictive I/O updates, accelerating DELETE, MERGE and UPDATE operations.
  
 -  **[Photon](https://docs.databricks.com/aws/en/compute/photon):** is a high-performance Databricks-native vectorized query engine that runs your SQL workloads and DataFrame API calls faster to reduce your total cost per workload.
