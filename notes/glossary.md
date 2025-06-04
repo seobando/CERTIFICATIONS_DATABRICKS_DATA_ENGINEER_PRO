@@ -34,5 +34,10 @@
   -  **Phothon** leverages deletion vector for predictive I/O updates, accelerating DELETE, MERGE and UPDATE operations.
  
 -  **[Photon](https://docs.databricks.com/aws/en/compute/photon):** is a high-performance Databricks-native vectorized query engine that runs your SQL workloads and DataFrame API calls faster to reduce your total cost per workload.
-
--  **[Parquet](https://www.databricks.com/glossary/what-is-parquet):** Apache Parquet is an open source, column-oriented data file format designed for efficient data storage and retrieval. It provides efficient data compression and encoding schemes with enhanced performance to handle complex data in bulk. 
+-  **[Parquet](https://www.databricks.com/glossary/what-is-parquet):** Apache Parquet is an open source, column-oriented data file format designed for efficient data storage and retrieval. It provides efficient data compression and encoding schemes with enhanced performance to handle complex data in bulk.
+- **Shallow Clone:** creates a copy of a table's metadata without copying the data files themselves. This means the new table references the original table's data. Shallow cloning is a cost-effective way to create copies for testing, experimentation, or short-lived use cases.
+  - When to use it: 
+    - When you need a temporary copy of a table for testing or development. 
+    - When you want a cost-effective way to create a copy of a table. 
+    - When you want to avoid copying large amounts of data. 
+    - When you need to preserve the original table's data integrity.   
